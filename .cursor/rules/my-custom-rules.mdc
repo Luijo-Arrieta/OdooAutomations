@@ -1,0 +1,28 @@
+---
+description: Code and documentation language requirements
+globs:
+alwaysApply: true
+---
+
+# Language Requirements
+
+## Code and Documentation Language
+- **All code must be written in English**
+- **All comments must be written in English**
+- **All variable names, function names, and identifiers must be in English**
+- **All documentation (README, comments, docstrings) must be written in English**
+- **All error messages and user-facing text must be in English**
+
+## Examples of what should be in English:
+- Variable names: `userName`, `calculateTotal`, `isValid`
+- Function names: `getUserData()`, `processPayment()`, `validateInput()`
+- Comments: `// Calculate the total amount`, `/* Process user authentication */`
+- Documentation: `/** * This function calculates the total price including taxes */`
+- Error messages: `"Invalid input provided"`, `"User not found"`
+
+## What NOT to do:
+- Avoid Spanish variable names like `nombreUsuario`, `calcularTotal`
+- Avoid Spanish comments like `// Calcular el total`
+- Avoid Spanish function names like `obtenerDatosUsuario()`
+
+This ensures code consistency, maintainability, and international collaboration.

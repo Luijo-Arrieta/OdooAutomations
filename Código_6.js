@@ -1,0 +1,4 @@
+function actualizarConsolidadoOxxo() {
+  LibComparativoDePedidos.actualizarConsolidadoOxxo()
+}
+
