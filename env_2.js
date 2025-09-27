@@ -1,5 +1,0 @@
-const IdCosolidadoComparativoPedidos = "17cQr-WMUGyvJ80Mg-WZe4ahJkfKfJ0vh3Rvlbt6ncf8"
-const NameCosolidadoComparativoPedidos = "Comparativo 2025"
-const LogDocId = "1QS_mZvOhH6xM3PZEIA1OvVZkvQA3kK5YkKUVEc5GFwI"
-const BdArchivosId = "1iJEuc-xSwfba2KPDn38xSpjA-3TKiONQ-VgsVSUZODQ"
-const BdOrdenesId = "1CoOTOF7DgCKJcHWKPVpInzQqzB_zj-NqBAcm4N07dRc"

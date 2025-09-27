@@ -99,3 +99,4 @@ logs
 
 tmp/
 temp/
+.cursor/
